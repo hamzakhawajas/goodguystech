@@ -180,8 +180,8 @@ const Contact = () => {
                                         <i className="fas fa-map-marker-alt pt-2 pr-2" />
                                     </div>
                                     <div className="flex flex-col">
-                                        <h2 className="text-2xl">Office Address</h2>
-                                        <p className="text-gray-400">w tonto drive Glendale, Arizona</p>
+                                        <h2 className="text-2xl"></h2>
+                                        <p className="text-gray-400"></p>
                                     </div>
                                 </div>
                     
