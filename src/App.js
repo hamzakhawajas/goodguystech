@@ -30,7 +30,7 @@ function App() {
     });
   }, []);
 
-  useDocTitle("Good Guys Tech | Molad e Konsult - Bespoke Web and Mobile Applications");
+  useDocTitle("Good Guys Tech | Software Development Consultant - Bespoke Web and Mobile Applications");
 
   return (
     <>

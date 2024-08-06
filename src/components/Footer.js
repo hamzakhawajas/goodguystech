@@ -95,7 +95,7 @@ const Footer = () => {
                         to="#"
                         className=" hover:text-gray-900"
                     >
-                        Molad e Konsult
+                        Good Guys Tech
                     </HashLink>. All rights reserved.
                     </div>
                 </div>
